@@ -1,10 +1,30 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #1d1a39;
+}
+
+
+
 .header {
-    background-color: orange;
+    background-color: #ae445a;
     display: flex;
     flex-direction: row;
-    justify-content: end;
-    
+    justify-content: space-around;
+    color: #f39f5a;
+    padding-bottom: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
+.header a {
+    color: #f7c34c;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
 }
 
 .characters{
