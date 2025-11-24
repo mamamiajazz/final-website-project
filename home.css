@@ -1,4 +1,10 @@
+@font-face {
+    font-family:sigma;
+    src: url
+}
+
 * {
+
     margin: 0;
 }
 
@@ -14,7 +20,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
     color: #f39f5a;
-    padding-bottom: 1;
+    padding-bottom: 1px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
