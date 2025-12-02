@@ -40,25 +40,36 @@ body {
 }
 
 #puppy {
-    top: 50vh;
-    left: 50%;
+    top: 109vh;
+    left: 54%;
     z-index: 10;
 
 }
 
 #puppy2 {
     top: 20vh;
-    left: 27%;
+    left: 39%;
+    z-index: 9;
 }
 
 #puppy3 {
-    top: 25vh;
-    left: 65%;
+    top: 6vh;
+    left: 60%;
 }
 
 #puppy4 {
-    top: 40vh;
-    left: 2%
+    top: 50vh;
+    left: 13%
+}
+
+#puppy5 {
+    top: 8vh;
+    left: 1%
+}
+
+#puppy6 {
+    top: 70vh;
+    left: 85%
 }
 
 .characters{
