@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #1d1a39;
+    background-color: #0e0c22;
 }
 
 
 
 .header {
-    background-color: #ae445a;
+    background-color: #8c1515;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -40,36 +40,36 @@ body {
 }
 
 #puppy {
-    top: 109vh;
+    top: 139vh;
     left: 54%;
     z-index: 10;
 
 }
 
-#puppy2 {
-    top: 20vh;
-    left: 39%;
+#denji1 {
+    top: 19vh;
+    left: 38%;
     z-index: 9;
 }
 
-#puppy3 {
+#power1 {
     top: 6vh;
-    left: 60%;
+    left: 61%;
 }
 
-#puppy4 {
-    top: 50vh;
-    left: 13%
+#aki {
+    top: 35vh;
+    left: 17%
 }
 
 #puppy5 {
-    top: 8vh;
+    top: 81vh;
     left: 1%
 }
 
 #puppy6 {
     top: 70vh;
-    left: 85%
+    left: 75%;
 }
 
 .characters{
