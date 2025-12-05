@@ -29,13 +29,15 @@ body {
     text-decoration: none;
 }
 
-
+.main img{
+    border:5px solid #ffffff; padding:3px; margin:px
+}
 
 .main{
     position: relative;
 }
 
-.main img {
+.characters img {
     position: absolute;
 }
 
@@ -62,7 +64,7 @@ body {
     left: 17%
 }
 
-#puppy5 {
+#rezebomb {
     top: 81vh;
     left: 1%
 }
