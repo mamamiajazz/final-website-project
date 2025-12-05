@@ -43,7 +43,7 @@ body {
 
 #puppy {
     top: 139vh;
-    left: 54%;
+    left: 49%;
     z-index: 10;
 
 }
@@ -70,8 +70,13 @@ body {
 }
 
 #puppy6 {
-    top: 70vh;
-    left: 75%;
+    top: 100vh;
+    left: 72%;
+}
+
+#puppy7 {
+    top: 160vh;
+    left: 27%;
 }
 
 .characters{
