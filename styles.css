@@ -38,6 +38,7 @@ body {
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
+    margin-bottom: 80px;
 }
 
 #authorurl{
