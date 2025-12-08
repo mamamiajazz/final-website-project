@@ -5,12 +5,22 @@
 }
 
 body {
-    background-color: #0e0c22;
+    background-color: #101010;
+    background-image: url('pewidiepiewaves.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 
 
 .header {
+    background-image: url('csmheader.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     background-color: #8c1515;
     display: flex;
     flex-direction: row;
@@ -21,12 +31,25 @@ body {
 }
 
 .header a {
-    color: #f7c34c;
+    
+    color: #ffb300;
     font-size: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
+}
+
+#authorurl{
+    #
+}
+
+#charactersurl{
+    #
+}
+
+#csmlogo{
+    #
 }
 
 .main img{
@@ -37,16 +60,10 @@ body {
     position: relative;
 }
 
-.characters img {
+.main img {
     position: absolute;
 }
 
-#puppy {
-    top: 139vh;
-    left: 49%;
-    z-index: 10;
-
-}
 
 #denji1 {
     top: 19vh;
@@ -69,14 +86,43 @@ body {
     left: 1%
 }
 
-#puppy6 {
-    top: 100vh;
+#weaponhybrids {
+    top: 90vh;
+    left: 50%
+}
+
+#lookback {
+    top: 170vh;
     left: 72%;
 }
 
-#puppy7 {
-    top: 160vh;
-    left: 27%;
+#firepunch {
+    top: 230vh;
+    left: 29%;
+}
+
+#fujimoto {
+    top: 209vh;
+    left: 49%;
+    z-index: 10;
+
+}
+
+#goodbyeeri {
+    top: 250vh;
+    left: 10%;
+
+}
+
+#fujimotoworks {
+    top: 170vh;
+    left: 1%
+}
+
+#fujimotoavatar {
+    top: 300vh;
+    left: 88%;
+
 }
 
 .characters{
